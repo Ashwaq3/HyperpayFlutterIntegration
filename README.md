@@ -13,7 +13,7 @@ This Application developed along with the guide https://medium.com/@ashwaqazan/h
 ## 🎬 Illustration
 Here are some Illustration of App 
 
-| ![](illustration/Hyperpay_Payment.PNG)  |
+| ![](illustration/Hyperpay_Payment.png)  |
 | :-------------------------------------: | 
 |       Hyperpay Payment                  | 
 
